@@ -1,2 +1,3 @@
-# example-dataset
-Example Dataset for SimNIBS
+# SimNIBS Example Dataset
+
+We are currentlty only using the Releases Feature
